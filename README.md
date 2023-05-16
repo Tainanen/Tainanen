@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, Docker**
 
-- 💬 Find me from **https://www.linkedin.com/in/tainapirhonen/**
 
 - ⚡ Fun fact **한국어를 조금 알아요!**
 
