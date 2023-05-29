@@ -1,5 +1,5 @@
 <h1 align="center">I'm Taina!</h1>
-<h3 align="center">A lovely librarian and IT-newbie interested in learning new things. I graduated from AW Academy's Learning Program in Java, AWS and GCP in spring 2023.</h3>
+<h3 align="center">A friendly librarian and an IT-newbie interested in learning new things. I graduated from AW Academy's Learning Program in Java, AWS and GCP in spring 2023.</h3>
 
 - 🔭 I’m currently working on [Helsinki City Bike App](https://github.com/Tainanen/HelsinkiBike)
 
