@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Spring Boot, React, Docker**
 
 
-- ⚡ Fun fact **한국어를 조금 알아요!**
+- ⚡ Did you know, that **한국어를 조금 알아요!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
