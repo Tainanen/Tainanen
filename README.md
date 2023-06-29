@@ -1,10 +1,9 @@
 <h1 align="center">I'm Taina!</h1>
-<h3 align="center">A friendly librarian and an IT-newbie interested in learning new things. I graduated from AW Academy's Learning Program in Java, AWS and GCP in spring 2023.</h3>
+<h3 align="center">A friendly librarian and an IT-newbie interested in learning new things. I graduated from AW Academy's Learning Program in Java, AWS and GCP in Spring 2023. Currently I'm working as an information specialist.</h3>
 
-- 🔭 I’m currently working on [Helsinki City Bike App](https://github.com/Tainanen/HelsinkiBike)
+- 🔭 I was working on [Helsinki City Bike App](https://github.com/Tainanen/HelsinkiBike)
 
-- 🌱 I’m currently learning **Spring Boot, React, Docker**
-
+- 🌱 I was learning **Spring Boot, React, Docker**
 
 - ⚡ Did you know, that **한국어를 조금 알아요!**
 
